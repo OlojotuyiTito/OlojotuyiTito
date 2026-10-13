@@ -1,6 +1,6 @@
 # Helloooo!👋
 
-<img width="1280" height="720" alt="github profile readme ing" src="https://github.com/user-attachments/assets/582c16e7-50a7-475e-92ee-85d0926e170a" />
+<!-- <img width="1280" height="720" alt="github profile readme ing" src="https://github.com/user-attachments/assets/582c16e7-50a7-475e-92ee-85d0926e170a" /> -->
 
 My name is **Titoluwanimi David Olojotuyi**. I'm from Nigeria.
 I'm currently studying Computer Science as an undergrad in Covenant University Ota, Ogun State, Nigeria🏫.
